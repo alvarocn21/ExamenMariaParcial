@@ -1,11 +1,11 @@
 import React, { FC } from 'react';
 import './App.css';
-import Container from './Componentes/Container';
+import Contenedor from './Components/Contenedor';
 
 const App :FC= () => {
   return (
     <div>
-      <Container/>
+      <Contenedor/>
     </div>
   );
 }
